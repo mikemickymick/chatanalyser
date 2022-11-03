@@ -8,3 +8,7 @@ export function multiplyNumbers(a, b) {
 export function HelloThere() {
     alert("... General Kenobi");
 }
+
+export function Greeting(name) {
+    alert(`Hi, ${name}`);
+}
