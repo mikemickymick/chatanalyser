@@ -1,5 +1,5 @@
 
-import { MetricModule, FistEncounter } from "./lib/metricmodules.js";
+import { MetricModule, FirstEncounter } from "./lib/metricmodules.js";
 
 /** Returns `Hello World` in bold */
 export function multiplyNumbers(a, b) {
