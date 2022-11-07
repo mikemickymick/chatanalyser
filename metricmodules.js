@@ -17,6 +17,11 @@ class FirstEncounter extends MetricModule {
         this.ReplyingChatter = replyingChatter;
         this.ReplyMessage = replyMessage;
     }
+    sayHi(person) {
+        alert("Hello there, " + name + "!");
+    }
+
+
 }
 
 export {
