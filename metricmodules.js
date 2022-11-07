@@ -1,4 +1,4 @@
-// JavaScript source code
+// JavaScript source code 
 class MetricModule {
     constructor(name, required, width, height) {
         this.Name = name;
