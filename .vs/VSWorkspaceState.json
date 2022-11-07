@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github\\workflows"
   ],
-  "SelectedNode": "\\C:\\Mike\\Repos\\chat-analyser",
+  "SelectedNode": "\\deps.js",
   "PreviewInSolutionExplorer": false
 }

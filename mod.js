@@ -1,4 +1,6 @@
 
+import { MetricModule, FistEncounter } from "/metricmodules.js";
+
 /** Returns `Hello World` in bold */
 export function multiplyNumbers(a, b) {
   return a * b;
@@ -12,3 +14,9 @@ export function HelloThere() {
 export function Greeting(name) {
     alert(`Hi, ${name}`);
 }
+
+export {
+    MetricModule,
+    FistEncounter
+}
+
