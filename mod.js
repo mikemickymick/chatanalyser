@@ -17,6 +17,6 @@ export function Greeting(name) {
 
 export {
     MetricModule,
-    FistEncounter
+    FirstEncounter
 }
 
